@@ -39,12 +39,14 @@ Ha, it looks like the BCB material in my UG years.
 
 I didn't know that a numbered list can be created _without_ specifying the bullet number!
 markdown syntax
+
 `1.
  1.
  1.
  1.`
 
 preview result
+
 1.
 1.
 1.
