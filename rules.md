@@ -9,7 +9,7 @@
 
 ## Additional Rules
 1. I will push code to GitHub every day so that I can record my progress, if any
-2. I will update the (Log)[log.md] with the day's progress and provide a link so that I can record my progress.
+2. I will update the [Log](log.md) with the day's progress and provide a link so that I can record my progress.
 3. I will try to type something down, regardless of code / reflection
 
 ## Ideas to make this challenge more effective
