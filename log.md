@@ -66,4 +66,13 @@ I would like to learn more about the Beatle's music. There are a lot of great re
 *HTML Snippet*
 I study the .js files in the example and follow the line, then a question bumps up: What is the output of `function DNA(num)`? A few random character or just a few? In order to verify that, I try the line in different javaScript tester, and putting all the pieces together gives me an html file that gives random character, just one character.
 
-**Link(s) to work** []
+**Link(s) to work** [HTML random character snippet](~/Code/2016-06-06_randomCharacter.html)
+
+
+### Day 4: 2017-06-07 (Wednesday)
+
+**Today's Progress** 
+
+**Thoughts**
+
+**Link(s) to work**
