@@ -2,7 +2,7 @@
 
 ## Main Commitment
 ### *I will devote at least 0.5 hour to Code / Learn about Computer Science every day for the next 100 days.*
-> (1.01)^100 = 2.70 (corr. to 3 sig. fig.)
+### *(1.01)^100 = 2.70 (corr. to 3 sig. fig.)*
 
 #### Start Date
 2017-06-04 (Sunday)
