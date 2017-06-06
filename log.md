@@ -33,14 +33,29 @@ Ha, it looks like the BCB material in my UG years.
 
 ### Day 3: 2017-06-06 (Tuesday)
 
-**Today's Progress**: 
+**Today's Progress**: Practise Markdown
 
-**Thoughts** I would like to learn more about the Beatle's music. There are a lot of great resources on the Beatles.
+**Thoughts** 
+
+I didn't know that a numbered list can be created _without_ specifying the bullet number!
+markdown syntax
+`1.
+ 1.
+ 1.
+ 1.`
+
+preview result
+1.
+1.
+1.
+1.
+1.
+
+I would like to learn more about the Beatle's music. There are a lot of great resources on the Beatles.
 1. [Introduction to the Beatles A](http://coinacademy.co/digital-currency-tutorials/)
 1. [Introduction to the Beatles B](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 1. [Introduction to the Beatles C](http://bitcoin-class.org/classes/)
 1. [Introduction to the Beatles Coursera](https://www.coursera.org/learn/cryptocurrency?siteID=SAyYsTvLiGQ-YQu6cnj.75ruGnWaqsC9BA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
-1. [Introduction to the Beatles Stanford](http://online.stanford.edu/course/bitcoin-and-crypto-currencies)
 1. [Introduction to the Beatles Udemy](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/)
 <!---
 **Link(s) to work**
