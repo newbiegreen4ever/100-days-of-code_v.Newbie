@@ -40,7 +40,8 @@ Ha, it looks like the BCB material in my UG years.
 1. [Introduction to the Beatles B](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 1. [Introduction to the Beatles C](http://bitcoin-class.org/classes/)
 1. [Introduction to the Beatles Coursera](https://www.coursera.org/learn/cryptocurrency?siteID=SAyYsTvLiGQ-YQu6cnj.75ruGnWaqsC9BA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
-
+1. [Introduction to the Beatles Stanford, with a nice certificate](http://online.stanford.edu/course/bitcoin-and-crypto-currencies)
+1. [Introduction to the Beatles Udemy](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/)
 <!---
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
