@@ -1,18 +1,16 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will devote at least 0.5 hour to Code / Learn about Computer Science every day for the next 100 days.*
+### > (1.01)^100 = 2.70 (corr. to 3 sig. fig.)
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+2017-06-04 (Sunday)
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
-
+1. I will push code to GitHub every day so that I can record my progress, if any
+2. I will update the (Log)[log.md] with the day's progress and provide a link so that I can record my progress.
+3. I will try to type something down, regardless of code / reflection
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
