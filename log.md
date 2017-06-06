@@ -1,6 +1,6 @@
 # 100 Days Of Code (Newbie version) - Log
 Given my limited coding skills and computer science knowledge, I decide to take this challenge slowly in a vanilla fashion. The goal is to working on Coding Skills / Computer Science at least 0.5 hr every day in order to achieve steady progress.
-> (1.01)^100 = 2.70 (corr. to 2 sig. fig.)
+> (1.01)^100 = 2.70 (corr. to 3 sig. fig.)
 
 ### Day 1: 2017-06-04 (Sunday)
 <!--- ##### (delete me or comment me out)--->
