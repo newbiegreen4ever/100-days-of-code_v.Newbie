@@ -31,13 +31,17 @@ Ha, it looks like the BCB material in my UG years.
 1. [Github page of CCapture.js](https://github.com/spite/ccapture.js)
 2. [The Beatles - Octopus's Garden](https://www.youtube.com/watch?v=c0vFUxE3SrM)
 
-<!--- 
-### Day 1: June 27, Monday
+### Day 3: 2017-06-06 (Tuesday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I would like to learn more about the Beatle's music. There are a lot of great resources on the Beatles.
+1. [Introduction to the Beatles A](http://coinacademy.co/digital-currency-tutorials/)
+1. [Introduction to the Beatles B](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
+1. [Introduction to the Beatles C](http://bitcoin-class.org/classes/)
+1. [Introduction to the Beatles Coursera](https://www.coursera.org/learn/cryptocurrency?siteID=SAyYsTvLiGQ-YQu6cnj.75ruGnWaqsC9BA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
+<!---
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
