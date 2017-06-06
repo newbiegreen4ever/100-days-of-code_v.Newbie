@@ -1,22 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 2017-06-04 (Sunday)
+<!--- ##### (delete me or comment me out)--->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Look for solution to download my p5.js canvas animation as .gif
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** CCapture.js is a possible solution. It seems that I can download that by adding another .js library, but it will take me at least 1 - 2 weeks before I can implement it in my p5.js sketch.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Github page of CCapture.js](https://github.com/spite/ccapture.js)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: 2017-06-05 (Monday)
+<!--- ##### (delete me or comment me out)--->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set up an a/c and read about the Beatles, Figure out how to clone with git command line and Flip through the code of example CCapture.js
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Putting thoughts into action seems daunting at first, and it goes smoothly after the first step. Account set, ready to throw the party~ Thanks to the outdoor office chore, I have an extra 0.5 hr to read about the Beatles. This adds to 1 hr reading including the 0.5 hr session on commute. I still don't quite understand the CCapture.js example code, and need to work harder on that.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+1. [Github page of CCapture.js](https://github.com/spite/ccapture.js)
+2. [The Beatles - Octopus's Garden](https://www.youtube.com/watch?v=c0vFUxE3SrM)
 
 
 ### Day 1: June 27, Monday
