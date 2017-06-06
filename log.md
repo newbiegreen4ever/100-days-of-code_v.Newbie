@@ -13,12 +13,13 @@ Given my limited coding skills and computer science knowledge, I decide to take 
 3. reproduction mechanism
 4. crossover mechanism
 5. mutation mechanism
+
 Ha, it looks like the BCB material in my UG years.
 
 **Link to work:** [Github page of CCapture.js](https://github.com/spite/ccapture.js)
-<!---
+
 ### Day 2: 2017-06-05 (Monday)
-<!--- ##### (delete me or comment me out)
+<!--- ##### (delete me or comment me out) --->
 
 **Today's Progress**: Set up an a/c and read about the Beatles, Figure out how to clone with git command line and Flip through the code of example CCapture.js
 
@@ -28,7 +29,7 @@ Ha, it looks like the BCB material in my UG years.
 1. [Github page of CCapture.js](https://github.com/spite/ccapture.js)
 2. [The Beatles - Octopus's Garden](https://www.youtube.com/watch?v=c0vFUxE3SrM)
 
-
+<!--- 
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
