@@ -76,8 +76,15 @@ I study the .js files in the example and follow the line, then a question bumps 
 
 **Today's Progress** Fix Git commit problem
 
-**Thoughts** I spent a morning trying to figure out why I can't commit from my Git Desktop OMG. I never expected that Git, a versioning tool, would be a problem to be included in my 100-day challenge, but it _is_ a problem. There is a little problem with email privacy setting, and it is all solved, thanks to Stack Overflow.
+**Thoughts**
 
-**Link(s) to work**
+*Git*
+
+I spent a morning trying to figure out why I can't commit from my Git Desktop OMG. I never expected that Git, a versioning tool, would be a problem to be included in my 100-day challenge, but it _is_ a problem. There is a little problem with email privacy setting, and it is all solved in a morning, thanks to Stack Overflow. I get a pretty log too~
+
 1. [Stack Overflow - Github Windows 'Failed to sync this branch'](https://stackoverflow.com/questions/15387640/github-windows-failed-to-sync-this-branch)
 2. [Stack Overflow - Github email privacy restrictions](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
+3. [Stack Overflow - Amend Github commit email](https://stackoverflow.com/questions/4981126/how-to-amend-several-commits-in-git-to-change-author/25815116#25815116)
+4. [Stack Overflow - Get readable pretty log from Git](https://stackoverflow.com/questions/10063407/git-log-output-log-file)
+
+**Link(s) to work**
