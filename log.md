@@ -38,6 +38,7 @@ Ha, it looks like the BCB material in my UG years.
 **Thoughts**
 
 *Markdown*
+
 I didn't know that a numbered list can be created _without_ specifying the bullet number!
 
 markdown syntax
@@ -56,6 +57,7 @@ preview result
 1.
 
 *Surfing internet*
+
 I would like to learn more about the Beatle's music. There are a lot of great resources on the Beatles. Haha I browse some of them at office.
 1. [Introduction to the Beatles A](http://coinacademy.co/digital-currency-tutorials/)
 1. [Introduction to the Beatles B](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
@@ -64,6 +66,7 @@ I would like to learn more about the Beatle's music. There are a lot of great re
 1. [Introduction to the Beatles Udemy](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/)
 
 *HTML Snippet*
+
 I study the .js files in the example and follow the line, then a question bumps up: What is the output of `function DNA(num)`? A few random character or just a few? In order to verify that, I try the line in different javaScript tester, and putting all the pieces together gives me an html file that gives random character, just one character.
 
 **Link(s) to work** [HTML random character snippet](~/Code/2016-06-06_randomCharacter.html)
@@ -71,8 +74,10 @@ I study the .js files in the example and follow the line, then a question bumps 
 
 ### Day 4: 2017-06-07 (Wednesday)
 
-**Today's Progress** 
+**Today's Progress** Fix Git commit problem
 
-**Thoughts**
+**Thoughts** I spent a morning trying to figure out why I can't commit from my Git Desktop OMG. I never expected that Git, a versioning tool, would be a problem to be included in my 100-day challenge, but it _is_ a problem. There is a little problem with email privacy setting, and it is all solved, thanks to Stack Overflow.
 
 **Link(s) to work**
+1. [Stack Overflow - Github Windows 'Failed to sync this branch'](https://stackoverflow.com/questions/15387640/github-windows-failed-to-sync-this-branch)
+2. [Stack Overflow - Github email privacy restrictions](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
