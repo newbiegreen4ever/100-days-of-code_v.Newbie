@@ -87,4 +87,16 @@ I spent a morning trying to figure out why I can't commit from my Git Desktop OM
 3. [Stack Overflow - Amend Github commit email](https://stackoverflow.com/questions/4981126/how-to-amend-several-commits-in-git-to-change-author/25815116#25815116)
 4. [Stack Overflow - Get readable pretty log from Git](https://stackoverflow.com/questions/10063407/git-log-output-log-file)
 
-**Link(s) to work**
+**Link(s) to work** [GitHub log](code\2017-06-07_readableGitHubLog.log)
+
+
+### Day 5: 2017-06-08 (Thursday)
+
+**Today's Progress** Review javaScript, Study Typing Monkey example from Nature of Code and Come up with 2 variations of crossover method
+
+**Thoughts**
+＊<<Remainder>> and <<Allele>> are possible ways to crossover, the evolution becomes even faster when fitness is relating to crossover. Next time I should look around BCB text books and try to implement a realistic crossover.
+
+＊Do not mess with the array index, otherwise the evolution will never complete haha, imagine your best phrase being constantly disrupted by displaced character
+
+**Link(s) to work** [Two variations of crossover](code\2017-06-08_twoCrossoverMethodsDNA.js)
