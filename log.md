@@ -100,3 +100,29 @@ I spent a morning trying to figure out why I can't commit from my Git Desktop OM
 ＊Do not mess with the array index, otherwise the evolution will never complete haha, imagine your best phrase being constantly disrupted by displaced character
 
 **Link(s) to work** [Two variations of crossover](code\2017-06-08_twoCrossoverMethodsDNA.js)
+
+### Day 6: 2017-06-09 (Friday)
+
+**Today's Progress** Study Typing Monkey example from Nature of Code and Finish some freeCodeCamp exercises
+
+**Thoughts**
+The way of selecting an element of an array reminds me of calling a student based on their number.
+
+Test thyself:
+`array = ["Peter", "Paul", "Mary", "Siu Ming", "Fai Fai", "Pear"];
+
+for (var i = 0; i < array.length; i++){
+  var a = floor(random(array.length));
+  var beingSelected = array[a];
+  }
+
+console.log(beingSelected);`
+array.length = 6
+array[5] = "Pear" && array[0] = "Peter"
+math.random(6) may generate 5.3
+math.floor(5.3) = 5
+array[5] = "Pear"
+
+HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
+
+**Link(s) to work** [freeCodeCamp](http://freeCodeCamp.com)
