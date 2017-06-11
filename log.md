@@ -126,3 +126,21 @@ array[5] = "Pear"
 HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 
 **Link(s) to work** [freeCodeCamp](http://freeCodeCamp.com)
+
+### Day 7: 2017-06-10 (Saturday)
+
+**Today's Progress** Finish some freeCodeCamp exercises
+
+**Thoughts** When I am motivated, reviewing Kadenze's Nature of Code genetic algorithm more is more engaging than working on basic html exercises by freeCodeCamp. However, when I am _not_ motivated and want to slack off,  freeCodeCamp is the best option. It feels good to work on something strictly guided when you are at lost and can't think of nothing to do.
+
+**Link(s) to work** [freeCodeCamp](http://freeCodeCamp.com)
+
+### Day 8: 2017-06-11 (Sunday)
+
+**Today's Progress** Finish some freeCodeCamp exercises
+
+**Thoughts** Another lazy day, another freeCodeCamp day. I save the exercises finished as html pages (no copyright infringement intended, just for the purpose of learning) and realize that freeCodeCamp exercises can really be implemented in a simple and neat webpage. If I walked through freeCodeCamp HTML chapters when I was taking COMP1001, I am sure that my grade would be higher than a sloppy B-.
+
+**Link(s) to work**
+1. [freeCodeCamp - Cat Photo Page](code/2017-06-11_freeCodeCamp-catPhotoPage.html)
+2. [freeCodeCamp - Padding & Margin Box](code/2017-06-11_freeCodeCamp-paddingBox.html)
