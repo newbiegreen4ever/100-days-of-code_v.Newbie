@@ -101,6 +101,7 @@ I spent a morning trying to figure out why I can't commit from my Git Desktop OM
 
 **Link(s) to work** [Two variations of crossover](code\2017-06-08_twoCrossoverMethodsDNA.js)
 
+
 ### Day 6: 2017-06-09 (Friday)
 
 **Today's Progress** Study Typing Monkey example from Nature of Code and Finish some freeCodeCamp exercises
@@ -127,6 +128,7 @@ HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 
 **Link(s) to work** [freeCodeCamp](http://freeCodeCamp.com)
 
+
 ### Day 7: 2017-06-10 (Saturday)
 
 **Today's Progress** Finish some freeCodeCamp exercises
@@ -134,6 +136,7 @@ HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 **Thoughts** When I am motivated, reviewing Kadenze's Nature of Code genetic algorithm more is more engaging than working on basic html exercises by freeCodeCamp. However, when I am _not_ motivated and want to slack off,  freeCodeCamp is the best option. It feels good to work on something strictly guided when you are at lost and can't think of nothing to do.
 
 **Link(s) to work** [freeCodeCamp](http://freeCodeCamp.com)
+
 
 ### Day 8: 2017-06-11 (Sunday)
 
@@ -144,3 +147,14 @@ HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 **Link(s) to work**
 1. [freeCodeCamp - Cat Photo Page](code/2017-06-11_freeCodeCamp-catPhotoPage.html)
 2. [freeCodeCamp - Padding & Margin Box](code/2017-06-11_freeCodeCamp-paddingBox.html)
+
+
+### Day 9: 2017-06-12 (Monday)
+
+**Today's Progress** Finish some freeCodeCamp exercises and Study Smart Rocket example from Nature of Code
+
+**Thoughts** Wake up early to do some freeCodeCamp exercises. It is a great way to come up with something to work on if you feel lazy. Come up with an idea on visual implementation of genetic algorithm, should compare that idea with Smark Rocket example tonight.
+
+Where do `this.hitObstacle` and `this.hitTarget` come from? Are they Boolean parameters, or functions? I am confused.
+
+**Link(s) to work** [freeCodeCamp - Overriding Style](code\2017-06-12_freeCodeCamp-styleOverriding.html)
