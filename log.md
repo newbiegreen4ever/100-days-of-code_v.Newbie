@@ -157,4 +157,4 @@ HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 
 Where do `this.hitObstacle` and `this.hitTarget` come from? Are they Boolean parameters, or functions? I am confused.
 
-**Link(s) to work** [freeCodeCamp - Overriding Style](code\2017-06-12_freeCodeCamp-styleOverriding.html)
+**Link(s) to work** [freeCodeCamp - Overriding Style](code/2017-06-12_freeCodeCamp-styleOverriding.html)
