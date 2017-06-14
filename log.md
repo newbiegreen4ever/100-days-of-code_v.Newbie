@@ -151,10 +151,37 @@ HTML exercises on freeCodeCamp are quite well designed. The cat site is cute.
 
 ### Day 9: 2017-06-12 (Monday)
 
-**Today's Progress** Finish some freeCodeCamp exercises and Study Smart Rocket example from Nature of Code
+**Today's Progress** Finish some freeCodeCamp exercises, Study Smart Rocket example from Nature of Code and Get more familiar with Git
 
 **Thoughts** Wake up early to do some freeCodeCamp exercises. It is a great way to come up with something to work on if you feel lazy. Come up with an idea on visual implementation of genetic algorithm, should compare that idea with Smark Rocket example tonight.
 
 Where do `this.hitObstacle` and `this.hitTarget` come from? Are they Boolean parameters, or functions? I am confused.
 
+Figure out my current favorite style for git log.
+`git log --pretty=format:'%ai%n%h : %s%n%N' --graph > log.log`
+
 **Link(s) to work** [freeCodeCamp - Overriding Style](code/2017-06-12_freeCodeCamp-styleOverriding.html)
+
+
+### Day 10: 2017-06-13 (Tuesday)
+
+**Today's Progress** Finish some freeCodeCamp exercises and Read _Eloquent javaScript_(p1-p19)
+
+**Thoughts** Hmmmm I can't show the good-looking CSS style in my laptop. Why? Aiiii..... I thought I could work on Smart Rocket example, but laziness got me. Luckily, I shrink the target hour from 1hr to 0.5hr, so a refreshing morning with freeCodeCamp would satisfy the minium requirement.
+
+**Link(s) to work** [freeCodeCamp - Bootstrap CSS day 1](code\2017-06-13_bootstrapCSSday1.html)
+
+
+### Day 11: 2017-06-14 (Wednesday)
+
+**Today's Progress** Finish some freeCodeCamp exercises (and Join my local groups)
+
+**Thoughts**
+
+I defeat my old self living in yesterday by successfully loading Bootstrap CSS in the example html pages. Hope to be more hardworking tonight.
+
+Finally figure out that `this.hitObstacle` and `this.hitTarget` are Booleans, they are like on/off for a switch, and the switch should be a downstream function.
+
+**Link(s) to work**
+1. [freeCodeCamp - Bootstrap CSS day 2](code\2017-06-14_bootstrapCSSday2.html)
+2. [freeCodeCamp - Button Playground](code\2017-06-14_jQueryPlayground.html)
