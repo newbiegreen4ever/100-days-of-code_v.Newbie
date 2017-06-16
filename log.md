@@ -169,7 +169,7 @@ Figure out my current favorite style for git log.
 
 **Thoughts** Hmmmm I can't show the good-looking CSS style in my laptop. Why? Aiiii..... I thought I could work on Smart Rocket example, but laziness got me. Luckily, I shrink the target hour from 1hr to 0.5hr, so a refreshing morning with freeCodeCamp would satisfy the minium requirement.
 
-**Link(s) to work** [freeCodeCamp - Bootstrap CSS day 1](code\2017-06-13_bootstrapCSSday1.html)
+**Link(s) to work** [freeCodeCamp - Bootstrap CSS day 1](code/2017-06-13_bootstrapCSSday1.html)
 
 
 ### Day 11: 2017-06-14 (Wednesday)
@@ -183,5 +183,30 @@ I defeat my old self living in yesterday by successfully loading Bootstrap CSS i
 Finally figure out that `this.hitObstacle` and `this.hitTarget` are Booleans, they are like on/off for a switch, and the switch should be a downstream function.
 
 **Link(s) to work**
-1. [freeCodeCamp - Bootstrap CSS day 2](code\2017-06-14_bootstrapCSSday2.html)
-2. [freeCodeCamp - Button Playground](code\2017-06-14_jQueryPlayground.html)
+1. [freeCodeCamp - Bootstrap CSS day 2](code/2017-06-14_bootstrapCSSday2.html)
+2. [freeCodeCamp - Button Playground](code/2017-06-14_jQueryPlayground.html)
+
+
+### Day 12: 2017-06-15 (Thursday)
+
+**Today's Progress** Finish some freeCodeCamp exercises
+
+**Thoughts**
+
+Finish the jQuery section in a morning. Hmm more or less the same with p5.js. Though I am still far from a master in browser canvas painting, the Kadenze's course does give some takeaway. Still can't load jQuery in the web, why?
+
+Surf the web in office. Oh There is a working holiday arrangement between the place I live and UK, and there is an interesting _free_ bootcamp in the UK, called Founders and Coders. Ha if someone from this city is very good, s/he may apply for a working holiday visa and join that bootcamp.
+
+**Link(s) to work** [freeCodeCamp - jQuery](code/2017-06-15_jQueryday1.html)
+
+### Day 13: 2017-06-16 (Friday)
+
+**Today's Progress** Research for freeCodeCamp tribute page exercise
+
+**Thoughts**
+
+Copy some contents from wiki (citation will be provided, no plagiarism haha), Tidy them up in markdown format and Convert them to html5 by pandoc. Is that cheating? I don't think so. This is working hard in a smart way. It saves me a lot of backbreaking chore putting content between html tags <></>.
+
+The Bootstrap themes at [Bootswatch](https://bootswatch.com/) are very nice. Will try to download them all by httrack.
+
+**Link(s) to work** [freeCodeCamp - jQuery](code/2017-06-15_jQueryday1.html)
