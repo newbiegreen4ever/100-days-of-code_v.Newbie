@@ -209,4 +209,4 @@ Copy some contents from wiki (citation will be provided, no plagiarism haha), Ti
 
 The Bootstrap themes at [Bootswatch](https://bootswatch.com/) are very nice. Will try to download them all by httrack.
 
-**Link(s) to work** [freeCodeCamp - jQuery](code/2017-06-15_jQueryday1.html)
+**Link(s) to work** [freeCodeCamp - Tribute Page - draft html](code/2017-06-16_tributePage-content.md.html)
