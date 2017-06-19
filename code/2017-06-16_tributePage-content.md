@@ -1,4 +1,4 @@
-# Ada Lovelace
+2017-06-16_tributePage-content.md﻿# Ada Lovelace
 
 <portrait of Ada>
 

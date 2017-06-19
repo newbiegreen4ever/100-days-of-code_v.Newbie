@@ -238,3 +238,19 @@ Finally understand why the right navigation bar doesn't work in my Codepen! It's
 Further cut down the contents, add more pictures by `<figure>`, and the tribute page starts to look decent.
 
 **Link(s) to work** [freeCodeCamp - tribute page html draft v2](code/2017-06-18_tributePage_template_filled.html)
+
+### Day 16: 2017-06-19 (Monday)
+
+**Today's Progress** Arrange images in tribute page and Add a carousel
+
+**Thoughts** Finalize content and format in tribute page after 4 days of work, with a lot of help from nice people uploading their templates at Codepen and W3School. All I need is a nice css color scheme.
+
+**Link(s) to work** [freeCodeCamp - tribute page draft](https://codepen.io/newbiegreen4ever/pen/dRpEez)
+
+### Day 17: 2017-06-20 (Tuesday)
+
+**Today's Progress** Draft css and Tidy up .js code for tribute page
+
+**Thoughts** 
+
+**Link(s) to work** [freeCodeCamp - tribute page draft](https://codepen.io/newbiegreen4ever/pen/dRpEez)
