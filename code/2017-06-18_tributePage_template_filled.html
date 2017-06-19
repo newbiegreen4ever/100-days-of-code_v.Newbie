@@ -1,0 +1,282 @@
+<!--
+source: https://codepen.io/Craig-Watson/pen/XbjGex
+author: Craig Watson
+-->
+<body data-spy="scroll" data-target="#myScrollspy">
+<!--
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container-fluid">
+
+		<<Brand and toggle get grouped for better mobile display>>
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">Brand</a>
+		</div>
+
+		<< Collect the nav links, forms, and other content for toggling >>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+				<li><a href="#">Link</a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="#">Action</a></li>
+						<li><a href="#">Another action</a></li>
+						<li><a href="#">Something else here</a></li>
+						<li class="divider"></li>
+						<li><a href="#">Separated link</a></li>
+						<li class="divider"></li>
+						<li><a href="#">One more separated link</a></li>
+					</ul>
+				</li>
+			</ul>
+
+			<form class="navbar-form navbar-left" role="search">
+				<div class="form-group">
+					<input type="text" class="form-control" placeholder="Search">
+				</div>
+				<button type="submit" class="btn btn-default">Submit</button>
+			</form>
+
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#">Link</a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="#">Action</a></li>
+						<li><a href="#">Another action</a></li>
+						<li><a href="#">Something else here</a></li>
+						<li class="divider"></li>
+						<li><a href="#">Separated link</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><</.navbar-collapse >>
+
+	</div><< /.container-fluid >>
+</nav>
+//-->
+
+
+<!-- Main Content To Show Dynamic Affix -->
+<div class="container-fluid" name="toTop" id="topPos">
+
+	<div class="row">
+		<div class="col-md-12">
+			<h1 class="page-heading">Ada Byron</h1>
+		</div>
+	</div>
+	<img src="http://blog.adacore.com/uploads/adalove4.png" class="img-responsive" alt="Ada Byron, a large image as heading">
+</div>
+
+	<div class="row">
+
+		<div class="col-md-9">
+			<div class="well">
+				<div class="panel panel-default">
+				<!-- Default panel contents -->
+				<div class="panel-heading">
+					Tribute Page
+				</div>
+				<div class="panel-body">
+					<span ></span>
+					<section id="sectionOne">
+						<h3>Who is Ada Byron?</h3>
+						<h4><em>The first programmer</em></h4>
+						<p>Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and created the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first to recognise the full potential of a "computing machine" and the first computer programmer.</p>
+
+						<div class="row">
+						<figure class="col-md-4">
+							<img src="https://www.biography.com/.image/t_share/MTE5NDg0MDU0ODg4ODA5OTk5/charles-babbage-wc-9193834-1-402.jpg" class="img-responsive img-circle" alt="The Analytical Engine">
+							<figcaption class="figure-caption">Fig 1. - Babbage's handsome face</figcaption>
+						</figure>
+
+						<figure class="col-md-8">
+							<img src="https://media1.britannica.com/eb-media/31/172531-004-964FE438.jpg" class="img-responsive img-rounded" alt="The Analytical Engine">
+							<figcaption class="figure-caption">Fig 2. - A model of Babbage's design Analytical Engine</figcaption>
+						</figure>
+						</div>
+
+
+
+					</section>
+
+					<section id="sectionTwo" data-offset="40">
+						<h3>Early life</h3>
+						<p>Ada Byron was the only legitimate child of the poet Lord Byron, Lady Wentworth. Her mother remained bitter towards Lord Byron and promoted Ada's interest in mathematics and logic in an effort to prevent her from developing what she saw as the insanity seen in her father, but Ada remained interested in him despite this (and was, upon her eventual death, buried next to him at her request). Often ill, she spent most of her childhood sick.</p>
+
+						<img src="http://c8.alamy.com/comp/DP9XWC/augusta-ada-byron-child-DP9XWC.jpg" class="img-fluid" alt="Ada Byron in her childhood">
+
+						<p>When she was a teenager, her mathematical talents led her to a long working relationship and friendship with fellow British mathematician Charles Babbage, also known as "the father of computers", and in particular, Babbage's work on the Analytical Engine. Lovelace first met him in June 1833, through their mutual friend, and her private tutor, Mary Somerville. Between 1842 and 1843, Ada translated an article by Italian military engineer Luigi Menabrea on the engine, which she supplemented with an elaborate set of notes, simply called Notes. These notes contain what many consider to be the first computer program—that is, an algorithm designed to be carried out by a machine.</p>
+					</section>
+
+					<section id="sectionThree">
+						<h3>Education</h3>
+						<p>Throughout her illnesses, she continued her education. Her mother's obsession with rooting out any of the insanity of which she accused Byron was one of the reasons that Ada was taught mathematics from an early age. She was privately schooled in mathematics and science by William Frend, William King, and Mary Somerville, the noted researcher and scientific author of the 19th century.</p>
+
+						<p>One of her later tutors was the mathematician and logician Augustus De Morgan. From 1832, when she was seventeen, her mathematical abilities began to emerge, and her interest in mathematics dominated the majority of her adult life. De Morgan affirmed Ada's skill and talent in mathematics and had high hope for her potential to become <em>"an original mathematical investigator, perhaps of first-rate eminence"</em>. Lovelace believed that intuition and imagination were critical to effectively applying mathematical and scientific concepts.</p>
+					</section>
+
+					<section id="sectionFour">
+						<h3>The Analytical Engine</h3>
+						<p>During a nine-month period in 1842–43, Lovelace translated the Italian mathematician Luigi Menabrea's article on Babbage's newest proposed machine, <i>the Analytical Engine</i>. She appended a set of notes to explain function of the Analytical Engine. This was a difficult task, as even many other scientists did not really grasp the concept and the British establishment was uninterested in it. Lovelace's notes even had to explain how the Analytical Engine differed from the original Difference Engine. Her work was well received at the time.</p>
+
+						<p>The notes are around three times longer than the article itself and include (in Section G), in complete detail, a method for calculating a sequence of Bernoulli numbers <!--can add explanatory note about what is Bernoulli numbers-->with the Engine, which could have run correctly had the Analytical Engine been built. Based on this work Lovelace is now widely considered the first computer programmer and her method is recognised as the world's first computer program. It is considered the first published algorithm ever specifically tailored for implementation on a computer, and Ada Byron has often been cited as the first computer programmer for this reason.</p>
+
+						<p>In 1953, more than a century after her death, Ada Byron's notes on Babbage's Analytical Engine were republished. The engine has now been recognised as an early model for a computer and her notes as a description of a computer and software.</p>
+					</section>
+
+					<section id="sectionFive">
+						<h3>Beyond Numbers</h3>
+						<p>Lovelace's notes are important in the early history of computers. She also developed a vision of the capability of computers to go beyond mere calculating or number-crunching, while many others, including Babbage himself, focused only on those capabilities. Her mindset of <em>poetical science</em> led her to ask questions about the Analytical Engine (as shown in her notes) examining how individuals and society relate to technology as a collaborative tool.</p>
+
+						<p>The historian of computing and Babbage specialist Doron Swade recognised her contribution in the conceptual change on the function of machine. Ada captured something that Babbage in some sense failed to see. In Babbage's world his engines were bound by number. What Ada Byron saw was that number could represent entities other than quantity.</p>
+
+						<p>Ada Byron expected machine to perform more than manipulating numbers. If those numbers represented other things, letters, musical notes, then the machine could manipulate symbols of which number was one instance, according to rules. It is this fundamental transition from a machine which is a number cruncher to a machine for manipulating symbols according to rules that is the fundamental transition from calculation to computation, and eventually to general-purpose computation. Looking back from the present high ground of modern computing, if we are looking and sifting history for that transition, then that transition was made explicitly by Ada in that 1843 paper.</p>
+					</section>
+
+					<section id="sectionSix">
+						<h3>Commemoration</h3>
+						<h4 id="ada-a-computer-language">Ada, a computer language</h4>
+							<p>The computer language Ada, created on behalf of the United States Department of Defense, was named after Lovelace. The reference manual for the language was approved on 10 December 1980 and the Department of Defense Military Standard for the language, MIL-STD-1815, was given the number of the year of her birth.</p>
+
+						<h4 id="lovelace-medal">Lovelace Medal</h4>
+							<p>Since 1998 the British Computer Society (BCS) has awarded the Lovelace Medal, and in 2008 initiated an annual competition for women students. BCSWomen sponsors the Lovelace Colloquium, an annual conference for women undergraduates. Ada College is a further-education college in Tottenham Hale, London focused on digital skills.</p>
+
+						<h4 id="ada-byron-day">Ada Byron Day</h4>
+							<p><a href="http://findingada.com/" target="_blank">Ada Byron Day</a> is an annual event celebrated in mid-October whose goal is to &quot;raise the profile of women in science, technology, engineering, and mathematics&quot;. (see Women in STEM fields) <!-- add a link-->and to &quot;create new role models for girls and women&quot; in these fields.</p>
+
+						<h4 id="ada-byron-building">Ada Byron Building</h4>
+							<p>The Engineering in Computer Science and Telecommunications College building in <a href="https://www.unizar.es/university-zaragoza" target="_blank">Zaragoza University</a> is called the Ada Byron Building.</p>
+
+						<h4 id="porlocks-lovelace-centre">Porlock's Lovelace Centre</h4>
+							<p>The computer centre in the village of Porlock, near where Lovelace lived, is named after her. Ada Byron House is a council-owned building in Kirkby-in-Ashfield, Nottinghamshire, near where Lovelace spent her infancy; the building was once an internet centre.</p>
+
+						<h4 id="ada-an-academic-journal">Ada, an academic journal</h4>
+							<p>A Journal of Gender, New Media, and Technology is an &quot;open-access, multi-modal, [open-]peer-reviewed feminist journal concerned with the intersections of gender, new media, and technology&quot; that began in 2012 and is run by the <a href="http://fembotcollective.org/" target="_blank">Fembot Collective</a>.</p>
+
+						<h4 id="ada-developers-academy">Ada Developers Academy</h4>
+							<p><a href="https://adadevelopersacademy.org/about" target="_blank">Ada Developers Academy</a> is established to fill the unmet need and to help rectify the gender imbalance in software development. Its aim is to empower and prepare underrepresented people for productive roles in technical positions. This academy is designed to be an inclusive, positive learning environment. Everyone is welcome, regardless of sexual orientation, disability, physical appearance, education, age, race, or religion. All women (cis and trans) and people with non-binary gender who feel a part of women's community are encouraged to apply.</p>
+					</section>
+
+					<section id="sectionSeven">
+						<h3>Famous Quotes</h3>
+						<blockquote>
+							<p>The science of operations, as derived from mathematics more especially, is a science of itself and has its own abstract truth and value, just as logic has its own peculiar truth and value, independently of the subjects to which we may apply its reasonings and processes.</p>
+							<p><cite>Read more at: https://www.brainyquote.com/quotes/quotes/a/adalovelac802514.html</cite></p>
+						</blockquote>
+
+						<blockquote>
+							<p>The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.</p>
+							<p><cite>Read more at: https://www.brainyquote.com/quotes/quotes/a/adalovelac802516.html</cite></p>
+						</blockquote>
+
+						<blockquote>
+							<p>Those who incline to very strictly utilitarian views may perhaps feel that the peculiar powers of the Analytical Engine bear upon questions of abstract and speculative science rather than upon those involving everyday and ordinary human interests.</p>
+							<p><cite>Read more at: https://www.brainyquote.com/quotes/quotes/a/adalovelac802519.html</cite></p>
+						</blockquote>
+
+						<blockquote>
+							<p>Mathematical science shows what is. It is the language of unseen relations between things. But to use and apply that language, we must be able fully to appreciate, to feel, to seize the unseen, the unconscious.</p>
+							<p><cite>Read more at: https://www.brainyquote.com/quotes/quotes/a/adalovelac802508.html</cite></p>
+						</blockquote>
+
+						<blockquote>
+							<p>Those who have learned to walk on the threshold of the unknown worlds, by means of what are commonly termed par excellence the exact sciences, may then, with the fair white wings of imagination, hope to soar further into the unexplored amidst which we live.</p>
+							<p><cite>Read more at: https://www.brainyquote.com/quotes/quotes/a/adalovelac802507.html</cite></p>
+						</blockquote>
+
+
+						<!--<blockquote>
+							<p></p>
+							<p><cite></cite></p>
+						</blockquote>-->
+					</section>
+
+					<section id="sectionEight">
+						<h3>Pictures</h3>
+						<p>[Grab the pictures](https://sayingimages.com/ada-lovelace-quotes/)</p>
+					</section>
+
+					<section id="sectionNine">
+						<h3>Further reading</h3>
+
+						<p><a href="http://www.wseas.us/e-library/conferences/skiathos2001/papers/161.pdf" target="_blank">Ada Lovelace’s Poetical Science by Betty Alexandra Toole Ed.D.</a></p>
+
+						<p><a href="http://meghan-barrett.com/blog/2016/09/07/the-poetical-science-of-ada-lovelace/" target="_blank">The Poetical Science of Ada Lovelace by Meghan Barrett</a></p>
+
+						<p><a href="http://www.academia.edu/17282797/_I_shall_in_due_time_be_a_poet_Ada_Lovelaces_Poetical_Science_in_its_Literary_Context" target="_blank">&quot;I shall in due time be a poet&quot;: Ada Lovelace's Poetical Science in its Literary Context by I. Forbes-Macphail</a></p>
+
+						<p><a href="http://analytics-magazine.org/ada-lovelace-poetical-scientist/" target="_blank">Ada Lovelace: ‘Poetical Scientist’ By Aaron Lai</a></p>
+
+						<p><a href="http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/" target="_blank">Untangling the Tale of Ada Lovelace</a></p>
+					</section>
+
+					<section id="sectionTen">
+						<h3>Citation</h3>
+						<p>
+							<ol>
+								<li>
+									https://en.wikipedia.org/wiki/Ada_Lovelace
+								</li>
+								<li>
+									https://adadevelopersacademy.org/about
+								</li>
+								<li>
+									https://www.brainyquote.com/quotes/authors/a/ada_lovelace.html
+								</li>
+								<li>
+									https://sayingimages.com/ada-lovelace-quotes/
+								</li>
+							</ol>
+						</p>
+					</section>
+				</div>
+
+			</div>
+		</div>
+		</div>
+		<!-- //Close Col -->
+
+
+		<div class="col-md-3 hidden-sm hidden-xs">
+			<div class="panel panel-default panel-affix" id="myScrollspy">
+				<!-- Default panel contents -->
+				<div class="panel-heading">
+					Content
+				</div>
+				<div class="panel-body">
+					<ul class="nav nav-pills nav-stacked">
+						<li class="active"><a href="#sectionOne"  data-offset="200">Who is Ada Byron?</a></li>
+						<li><a href="#sectionTwo" data-offset="40">Early Life</a></li>
+						<li><a href="#sectionThree">Education</a></li>
+						<li><a href="#sectionFour">The Analytical Engine</a></li>
+						<li><a href="#sectionFive">Beyond Numbers</a></li>
+						<li><a href="#sectionSix">Commemoration</a></li>
+						<li><a href="#sectionSeven">Famous Quotes</a></li>
+						<li><a href="#sectionEight">Pitures</a></li>
+						<li><a href="#sectionNine">Further Reading</a></li>
+						<li><a href="#sectionTen">Citation</a>
+						</li>
+						<li role="presentation" class="divider"></li>
+						<li><a href="#toTop">Back To Top <span class="glyphicon glyphicon-hand-up"></span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //Close Col -->
+
+
+
+	</div>
+</div>
+
+<div id="fake-footer"></div>
+</body>

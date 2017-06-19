@@ -209,4 +209,32 @@ Copy some contents from wiki (citation will be provided, no plagiarism haha), Ti
 
 The Bootstrap themes at [Bootswatch](https://bootswatch.com/) are very nice. Will try to download them all by httrack.
 
-**Link(s) to work** [freeCodeCamp - jQuery](code/2017-06-15_jQueryday1.html)
+**Link(s) to work** [freeCodeCamp - tribute page draft html](code/2017-06-16_tributePage-content.md.html)
+
+### Day 14: 2017-06-17 (Saturday)
+
+**Today's Progress** Study the template found in Codepen and Shrink the tribute page content
+
+**Thoughts**
+
+Find a nice template with an affixed navigation panel on the right and a scrolling section for contents. After pasting all contents inside, Hmmmm the page still looks weird with an improperly formatted right navigation bar. Why is that? It looks all good in someone else's Codepen.
+
+Trim down the contents, hope that it will make the tribute page more interesting, or at least less boring.
+
+**Link(s) to work**
+1. [Bootstrap3 template - html](code/2017-06-17_tributePage_template_Bootstrap3.html)
+2. [Bootstrap3 template - css](code/2017-06-17_tributePage_template_Bootstrap3.css)
+3. [Bootstrap3 template - js](code/2017-06-17_tributePage_template_Bootstrap3.js)
+4. [freeCodeCamp - tribute page content draft v2](code/2017-06-17_tributePage-content.md)
+
+### Day 15: 2017-06-18 (Sunday)
+
+**Today's Progress** Shrink the tribute page content and Fill in the Bootstrap3 template
+
+**Thoughts**
+
+Finally understand why the right navigation bar doesn't work in my Codepen! It's about version of Bootstrap css loaded in the page. I selected Bootstrap4, but the template was made from Bootstrap3! <panel> is obsolete in Bootstrap4 and replaced by <card>!
+
+Further cut down the contents, add more pictures by <figure>, and the tribute page starts to look decent.
+
+**Link(s) to work** [freeCodeCamp - tribute page draft html](code/2017-06-18_tributePage_template_filled.html)
