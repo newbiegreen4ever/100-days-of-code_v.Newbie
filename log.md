@@ -233,8 +233,8 @@ Trim down the contents, hope that it will make the tribute page more interesting
 
 **Thoughts**
 
-Finally understand why the right navigation bar doesn't work in my Codepen! It's about version of Bootstrap css loaded in the page. I selected Bootstrap4, but the template was made from Bootstrap3! <panel> is obsolete in Bootstrap4 and replaced by <card>!
+Finally understand why the right navigation bar doesn't work in my Codepen! It's about version of Bootstrap css loaded in the page. I selected Bootstrap4, but the template was made from Bootstrap3! `<panel>` is obsolete in Bootstrap4 and replaced by `<card>`!
 
-Further cut down the contents, add more pictures by <figure>, and the tribute page starts to look decent.
+Further cut down the contents, add more pictures by `<figure>`, and the tribute page starts to look decent.
 
-**Link(s) to work** [freeCodeCamp - tribute page draft html](code/2017-06-18_tributePage_template_filled.html)
+**Link(s) to work** [freeCodeCamp - tribute page html draft v2](code/2017-06-18_tributePage_template_filled.html)
