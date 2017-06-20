@@ -87,7 +87,7 @@ I spent a morning trying to figure out why I can't commit from my Git Desktop OM
 3. [Stack Overflow - Amend Github commit email](https://stackoverflow.com/questions/4981126/how-to-amend-several-commits-in-git-to-change-author/25815116#25815116)
 4. [Stack Overflow - Get readable pretty log from Git](https://stackoverflow.com/questions/10063407/git-log-output-log-file)
 
-**Link(s) to work** [GitHub log](code\2017-06-07_readableGitHubLog.log)
+**Link(s) to work** [GitHub log](code/2017-06-07_readableGitHubLog.log)
 
 
 ### Day 5: 2017-06-08 (Thursday)
@@ -99,7 +99,7 @@ I spent a morning trying to figure out why I can't commit from my Git Desktop OM
 
 ＊Do not mess with the array index, otherwise the evolution will never complete haha, imagine your best phrase being constantly disrupted by displaced character
 
-**Link(s) to work** [Two variations of crossover](code\2017-06-08_twoCrossoverMethodsDNA.js)
+**Link(s) to work** [Two variations of crossover](code/2017-06-08_twoCrossoverMethodsDNA.js)
 
 
 ### Day 6: 2017-06-09 (Friday)
@@ -249,8 +249,21 @@ Further cut down the contents, add more pictures by `<figure>`, and the tribute 
 
 ### Day 17: 2017-06-20 (Tuesday)
 
-**Today's Progress** Draft css and Tidy up .js code for tribute page
+**Today's Progress** Draft css, Tidy up .js code for tribute page and Finalize my tribute page about Ada Byron!
 
-**Thoughts** 
+**Thoughts** Yooooooo! First webpage shipped! Color scheme is much more difficult than I imagined. Even though the color scheme looks good in the color ring, when you try to apply the scheme to your page, the result is often a corny old-fashioned product. .js code is still too messy, after all I compile several people's codes~ Overall, I am satisfied with my tribute page which only takes me around 5 days to finish.
 
-**Link(s) to work** [freeCodeCamp - tribute page draft](https://codepen.io/newbiegreen4ever/pen/dRpEez)
+It's time to prepared for my portfolio~ Feel that need for speed~
+
+**Link(s) to work**
+1. [freeCodeCamp - finalized tribute page - CodePen css](code/2017-06-20_tribute page_codepen.css)
+2. [freeCodeCamp - finalized tribute page - CodePen js](code/2017-06-20_tribute page_codepen.js)
+3. [freeCodeCamp - finalized tribute page - CodePen html](code/2017-06-20_tribute page_codepen.html)
+
+### Day 18: 2017-06-21 (Wednesday)
+
+**Today's Progress** Research for my portfolio page
+
+**Thoughts**
+
+**Link(s) to work**

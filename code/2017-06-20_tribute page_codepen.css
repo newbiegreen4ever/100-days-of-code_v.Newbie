@@ -1,0 +1,79 @@
+/*
+source: https://codepen.io/Craig-Watson/pen/XbjGex
+author: Craig Watson
+*/
+
+.dark-primary-color    { background: #0288D1; }
+.default-primary-color { background: #03A9F4; }
+.light-primary-color   { background: #B3E5FC; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #FFC107; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
+.grayish-blue-color    { background: #98AFC7};
+
+* {
+	transition-duration: 0.2s;
+}
+
+body {
+	padding-top: 80px;
+}
+section {
+	margin: 20px 40px 20px 40px;
+  padding: 5px 5px 5px 5px;
+  text-align: left;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 50px 50px 50px 50px;
+}
+
+.page-heading {
+	padding: 20px 0 40px;
+	text-align: center;
+}
+
+.divider {
+	border-bottom: 1px solid #ccc;
+}
+
+#fake-footer {
+	height: 600px;
+	widith: 100%;
+	background: #ccc;
+}
+
+li a {
+	transition-duration: 1s;
+}
+
+/* Helpers for top position on internal page links
+====================================================*/
+#topPos:before,
+h3:before {
+  display: block;
+  content: " ";
+  margin-top: -80px;
+  height: 80px;
+  visibility: hidden;
+}
+/* AFFIX STYLES
+====================================================*/
+
+.panel-heading{
+  text-align: center;
+  margin: auto;
+  padding: auto;
+}
+
+.panel-body {
+  background-image: linear-gradient(270deg, #eeeeee, #eaf1ff);
+}
+
+.panel-affix {
+	min-width: 225px;
+}
