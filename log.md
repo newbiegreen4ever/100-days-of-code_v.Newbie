@@ -262,8 +262,92 @@ It's time to prepared for my portfolio~ Feel that need for speed~
 
 ### Day 18: 2017-06-21 (Wednesday)
 
-**Today's Progress** Research for my portfolio page
+**Today's Progress** Research for my portfolio page and Draw my plan
+
+**Thoughts** Hmmm A good sketch is the start of a good portfolio page. I think my sketch looks good.
+
+**Link(s) to work** pencil sketch
+
+### Day 19: 2017-06-22 (Thursday)
+
+**Today's Progress** Read about Pug, Apply Pug format in writing and Write pug draft of freeCodeCamp portfolio homework
+
+**Thoughts** I watch some videos about making CSS animation this morning. I come across "Jade" in the video, then I look for more information. OMG it's a great way to simplify and beautify html code. Without all the ugly tags, html code is much more pleasant to read!
+
+**Link(s) to work** [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-22_greenFolio_draft.pug)
+
+### Day 20: 2017-06-23 (Friday)
+
+**Today's Progress** Read other portfolio pages, Read about html and Rewrite Pug draft of freeCodeCamp portfolio homework
+
+**Thoughts** I think the big "Kakapo" can be replaced by a jumbotron with a big image as background. I hope in my portfolio page, there can be a big CSS animation instead of a still image.
+
+**Link(s) to work**
+1. [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-23_greenFolio_draft.pug)
+2. [freeCodeCamp - draft portfolio page - css draft](code/2017-06-23_greenFolio_draft.css)
+
+> Not feeling well, have a sick leave for a couple of days
+
+### Day 21: 2017-06-26 (Monday)
+
+**Today's Progress** Refine Pug draft of freeCodeCamp portfolio, Apply `card` with equal height and Read Firefox MDN notes about introduction to javaScript
+
+**Thoughts**
+How to separate `card` in Bootstrap4, such that they don't stick together?
+- Add a class
+`div.card.mb-3`
+mb-3 => margin-bottom 3 px
+
+- Change the CSS
+`.card {
+margin: 10px 10px 10px 10px;
+}`
+
+- Container v. Container-fluid
+Both are necessary to apply column, but the former does not span the whole viewport.
+
+`let` v. `var`
+variable scope inside a bracket v. global variable scope, therefore may be _updated_ in an unexpected way
+
+`return` v. `throw`
+break the execution of function v. interrupt with an exception
+
+**Link(s) to work**
+1. [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-26_greenFolio_draft.pug)
+2. [freeCodeCamp - draft portfolio page - css draft](code/2017-06-26_greenFolio_draft.css)
+
+### Day 22: 2017-06-27 (Tuesday)
+
+**Today's Progress** Refine Pug draft of freeCodeCamp portfolio
+
+**Thoughts** Maybe I should use css buttons for social media, and use form for comment & contact. Still in the mood of flu, lethargic.
+
+**Link(s) to work** [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-27_greenFolio_draft.pug)
+
+> Not feeling well, have a sick leave for a day
+
+### Day 23: 2017-06-29 (Thursday)
+
+**Today's Progress** Refine Pug draft of freeCodeCamp portfolio and Apply social buttons
 
 **Thoughts**
 
+Find a set of cool pure-css buttons from internet. I kind of copy and paste the code (since it is pure-css and the code is modularly well written) and the buttons work well! I want the links of each button to be more personalized, and now `mixin` of Pug comes in handy. However, something goes wrong for my mixin, and I can only display one button. It is about iteration?
+
+I am not slacking off in office when the boss is not around, I am working hard on `mixin` ~ !
+
+**Link(s) to work** [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-29_greenFolio_draft.pug)
+
+### Day 24: 2017-06-30 (Friday)
+
+**Today's Progress** Refine Pug draft of freeCodeCamp portfolio and Adjust social buttons
+
+**Thoughts**
+
+I look at the compiled html code of Pug and all the buttons can be displayed now. It seems that buttons have to be places in a _row_ e.g. `<a></a><a></a><a></a>` = 3 buttons, not in a container. After removing the `div.container` in `mixin`, everything goes well.
+
+Hmmmm maybe it's time to standardize my page, like setting standard format for `h2` `section` etc. Hope this can make my portfolio more _modular_ i.e. I can reuse the css for my next portfolio for real.
+
 **Link(s) to work**
+1. [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-30_greenFolio_draft.pug)
+2. [freeCodeCamp - draft portfolio page - CSS draft](code/2017-06-30_greenFolio_draft.css)

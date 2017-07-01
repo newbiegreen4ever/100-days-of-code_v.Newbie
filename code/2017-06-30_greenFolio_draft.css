@@ -1,0 +1,201 @@
+// Compiled by Stylus in Codepen
+// a nice gradient background
+/* background */
+body {
+  background: linear-gradient(90deg, #FF8008 10%, #FFC837 90%);
+  padding: 2em;
+  text-align: center;
+}
+
+// source:
+//https://codepen.io/AnyaCraig/pen/MopGbb
+//   The Kakapo heading is deeply inspired by this pen by Anya Craig.
+/* jumbotron heading */
+h1 {
+  margin-top: 5%;
+  line-height: 120px;
+  font-size: 120px;
+  text-align: center;
+  background: linear-gradient(
+    to right,
+    #ffffff, #f2ffea, #8fe060, #78ea35, #64f70e, #d7f70d, #e8ff5b, #f6ffbf);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 800px;
+  background-position: center 0%;
+  animation: background-slide 25s infinite linear;
+}
+
+@keyframes background-slide {
+  100% {
+    background-position: -8160px;
+  }
+}
+
+// This helps to set equal length for cards
+/* card-deck */
+/* Set width to make card deck cards 100% width */
+@media (max-width: 950px) {
+
+	.card-deck-wrapper {margin-right:0;margin-left:0;}
+
+	.card-deck {
+	    display: block;
+	    width: 100%;
+	    margin-bottom: .75rem;
+	    table-layout: fixed;
+	    border-spacing: 1.25rem 0;
+	}
+	.card-deck .card {
+	    display: block;
+	    margin-bottom: .75rem;
+	    vertical-align: top;
+	}
+
+  .card-deck .card:not(:first-child) {
+    margin-left: 0px;
+}
+
+}
+
+/* section heading */
+.section-heading {
+  text-align: center;
+}
+
+/* button */
+// https://codepen.io/chrisdothtml/full/azPYqq
+// this helps me to make nice pure-css buttons
+@import '//codepen.io/chrisdothtml/pen/ojLzJK.css'
+
+btn-size = 70px;
+sites = {
+  'facebook': #3B5998
+  'twitter': #3CF
+  'google': #DC4A38
+  'dribbble': #F26798
+  'skype': #00AFF0
+  'github': #505050
+  'medium': #3CB371
+}
+
+
+
+$animate {
+  transition: all .35s
+  transition-timing-function: cubic-bezier(
+    0.310,
+    -0.105,
+    0.430,
+    1.590
+  )
+}
+
+$btn__inactive {
+
+  &:before {
+    top: 90%
+    left: -110%
+  }
+
+  .fa {
+    transform: scale(.8)
+  }
+
+  // variants
+  for name, color in sites {
+
+    &.{name} {
+
+      &:before {
+        background-color: color
+      }
+
+      .fa {
+        color: color
+      }
+    }
+  }
+}
+
+$btn__active {
+
+  &:before {
+    top: -10%
+    left: -10%
+  }
+
+  .fa {
+    color: #fff
+    transform: scale(1)
+  }
+}
+
+.social-btns {
+  height: btn-size
+  margin: auto
+  font-size: 0
+  text-align: center
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+
+  .btn {
+    @extends $btn__inactive
+    @extends $animate
+    display: inline-block
+    background-color: #fff
+    width: btn-size
+    height: btn-size
+    line-height: btn-size
+    margin: 0 10px
+    text-align: center
+    position: relative
+    overflow: hidden
+    border-radius: 28%
+    box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.1)
+    //overflow bug fix
+    opacity: .99
+
+    &:before {
+      @extends $animate
+      content: ''
+      width: 120%
+      height: 120%
+      position: absolute
+      transform: rotate(45deg)
+    }
+
+    .fa {
+      @extends $animate
+      font-size: 38px
+      vertical-align: middle
+    }
+
+    &:focus,
+    &:hover {
+      @extends $btn__active
+    }
+  }
+}
+
+/* divider */
+.divider {
+	border-bottom: 1px solid #ccc;
+}
+
+
+/* footer */
+footer {
+	height: 200px;
+	widith: 100%;
+}
+
+#padding {
+  padding: 50px 10px 50px 10px
+}
+
+//section'
