@@ -351,3 +351,117 @@ Hmmmm maybe it's time to standardize my page, like setting standard format for `
 **Link(s) to work**
 1. [freeCodeCamp - draft portfolio page - Pug draft](code/2017-06-30_greenFolio_draft.pug)
 2. [freeCodeCamp - draft portfolio page - CSS draft](code/2017-06-30_greenFolio_draft.css)
+
+> I spend the whole day having fun with my buddy outdoor. I don's think this will count towards my 100 days of code.
+
+### Day 25: 2017-07-02 (Sunday)
+
+**Today's Progress** Refine Pug draft of freeCodeCamp portfolio and Rewrite project cards by `mixin`
+
+**Thoughts** This finalizes the structure of my portfolio page. `Mixin` saves a lot of typing. Should try to use `mixin` to compile uniform and tidy code for `carousel`, `navbar` and even formatting sections for sites.
+
+**Link(s) to work** [freeCodeCamp - draft portfolio page](https://codepen.io/newbiegreen4ever/pen/EXXXKz)
+
+### Day 26: 2017-07-03 (Monday)
+
+**Today's Progress** Reflect on my progress
+
+**Thoughts** Keep thinking about what I should learn. Finally come up with a few wanted items for 2017 and draw a pencil sketch
+
+**Link(s) to work** N.A.
+
+### Day 27: 2017-07-04 (Tuesday)
+
+**Today's Progress** Reflect on my progress
+
+**Thoughts** Keep thinking about what I should learn. Amend my pencil sketch
+
+**Link(s) to work** N.A.
+
+### Day 28: 2017-07-05 (Wednesday)
+
+**Today's Progress** Finalize freeCodeCamp portfolio and Finish some freeCodeCamp Intro to JS exercises
+
+**Thoughts** It is difficult to appear approachable and professional. Try to create a sample portfolio that will cheer up my future self after 1 - 2 years. Start working on JS right away.
+
+**Link(s) to work** [freeCodeCamp sample portfolio](https://codepen.io/newbiegreen4ever/pen/EXXXKz)
+
+### Day 29: 2017-07-06 (Thursday)
+
+**Today's Progress** Finish some freeCodeCamp Intro to JS exercises and Revise how to manipulate elements in an array
+
+**Thoughts**
+
+The easiest way to add an element to an array should be assigning a value to its elements.
+`var array = []; // create an empty array
+ array[0] = 1; // add the 0th element
+ array[1] = 3; // add the 1st element
+ return array; // [1, 3]
+`
+Don't have to go for `array.push(3)`, `array.unshift(1)` every time.
+
+Common ways to manipulate arrays
+`array.push(1); // add 1 as its last element
+ array.pop(); // remove its last element
+ array.shift(); // remove its first element
+ array.unshift(1); // add 1 as its first element
+`
+**Link(s) to work** N.A.
+
+### Day 30: 2017-07-07 (Friday)
+
+**Today's Progress** Finish some freeCodeCamp Intro to JS exercises and Draw Tuesday pencil sketch in Google Drawings
+
+**Thoughts**
+
+JS NB
+
+1. switch
+  `switch (x) {
+    case condition1:
+    [action];
+    break; // break from this case, such that you may move on to the next case
+    case condition2:
+    [action];
+    break; // break from this case
+    case condition3:
+    [action];
+    break; // break from this case
+    default
+    [action];
+    break;
+  }`
+
+2. if-else conditional
+  `if ([condition1]) {
+    [action 1]
+    } else if ([condition2]) {
+      [action 2]
+      } else {
+        [action 3]
+        }`
+
+3. =? ==?
+  `x = a`   assign a to x
+  `x == a`  compare a with x, often in conditional
+
+4. return
+  `return a > b` this returns a boolean, if a > b, then true, else false.
+
+5. object[prop]? object.prop
+  `object[prop]` 'prop' may be a variable, if `prop = address`, return object.address
+  `object.prop` if `prop = address`, return `undefined`. Dot notation can only be used for iterating properties of object
+
+6. random(max, min)
+  random(max, min)
+  = Math.floor(Math.random() * (max - min + 1)) - min
+
+**Link(s) to work** [Building Blocks 2017](https://docs.google.com/drawings/d/1gSpXkKseB9XYAsUa0IBNH4fZtOSFXveREDg8pZx188Q/edit?usp=sharing)
+
+### Day 31: 2017-07-08 (Saturday)
+
+**Today's Progress** Finish freeCodeCamp Intro to JS exercises and Start freeCodeCamp Intro to Algo exercises
+
+**Thoughts** I am not familiar with string... I need to check hints quite often for string questions. This max number array is the first question solved without peeping hints.
+
+**Link(s) to work** [freeCodeCamp Intro to Algo](code/2017-07-08_fccAlgo.js)
