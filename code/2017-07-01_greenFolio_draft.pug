@@ -1,0 +1,157 @@
+// reference: https://codepen.io/yeptony/full/yVvGbB
+// that is my ideal portfolio page!!!
+
+section#navbar 
+  nav.navbar.navbar-toggleable-md.navbar-light.bg-faded
+    button.navbar-toggler.navbar-toggler-right(type="button", data-toggle="collapse", data-target="#navbarNavAltMarkup", aria-controls="navbarNavAltMarkup", aria-expanded="false", aria-label="Toggle navigation")
+      span.navbar-toggler-icon
+    a.navbar-brand(href="#") Navbar
+    div#navbarNavAltMarkup.collapse.navbar-collapse
+      div.navbar-nav
+        a.nav-item.nav-link.active(href="#") Home 
+        a.nav-item.nav-link(href="#") Features
+        a.nav-item.nav-link(href="#") Pricing
+        a.nav-item.nav-link.disabled(href="#") Disabled
+
+section#jumbotron
+ div.jumbotron
+   div.container-fluid
+     h1.jumbotron-heading Kakapo Green
+     p.lead I like chicken. I also like kakapo.
+
+section#about
+ div.container
+   div.row
+     div.card-deck-wrapper
+       div.card-deck
+           div.card.col-md-6
+             div.card-block
+               h3.card-title About Me
+               p.card-text I know how to climb
+               img.img-fluid.card-img-bottom(src='http://www.doc.govt.nz/pagefiles/169573/sirocco-kakapo-maud-island-1200.jpg' alt='me, a cute kakapo')
+           div.card.col-md-6
+             div.card-block
+               h3.card-title What I have now
+               p.card-text
+                 table.table
+                   thead
+                     tr
+                       th Year
+                       th Event
+                   tbody
+                     tr
+                       td(scope='row') 2017
+                       td My Pokemons
+                         ul
+                           li charmander
+                           li pikachu
+                           li squirturtle
+                     tr
+                       td(scope='row') 2016
+                       td My items
+                         ul
+                           li first item
+                           li second item
+                           li third item
+
+- var projectList = [
+-  {
+- imgLink: "http://lorempixel.com/600/600/abstract/1", 
+- title: "Project 1",
+- text: "Project 1 is under construction.",
+- outline: "website development"
+-   },
+-   {
+- imgLink: "http://lorempixel.com/600/600/abstract/2", 
+- title: "Project 2",
+- text: "Project 2 is under construction.",
+- outline: "website development"
+-   },
+-   {
+- imgLink: "http://lorempixel.com/600/600/abstract/3", 
+- title: "Project 3",
+- text: "Project 3 is under construction.",
+- outline: "javaScript Snippet"
+-  },
+-  {
+- imgLink: "http://lorempixel.com/600/600/abstract/4", 
+- title: "Project 4",
+- text: "Project 4 is under construction.",
+- outline: "javaScript Snippet"
+-  },
+-  {
+- imgLink: "http://lorempixel.com/600/600/abstract/5", 
+- title: "Project 5",
+- text: "Project 5 is under construction.",
+- outline: "web scrapping"
+-  },
+-  {
+- imgLink: "http://lorempixel.com/600/600/abstract/6", 
+- title: "Project 6",
+- text: "Project 6 is under construction.",
+- outline: "front-end development"
+-  }
+- ]
+
+mixin albumCard(project)
+  div.col-md-4
+    div.card.card-inverse
+      img.card-img-top.img-fluid.img-thumb-nail(src=project.imgLink alt='project image')
+      div.card-img-overlay
+        h4.card-title=project.title
+        p.card-text=project.text
+        p.card-text
+          small=project.outline 
+
+section#album
+  div.container
+    div.row
+      div.card-deck-wrapper
+        div.card-deck
+          each project in projectList
+            +albumCard(project)                   
+              
+- var socialList = [
+-   {
+- site: "github", 
+- link: "https://github.com"
+-  },
+-   {
+- site: "facebook", 
+- link: "https://www.facebook.com"
+-   },
+-   {
+- site: "twitter", 
+- link: "https://twitter.com"
+-   },
+-  {
+- site: "google",
+- link: "https://www.google.com"  
+- }
+- ]
+  
+mixin social-btns(social)
+  a(href=social.link, target='_blank', class='btn ' + social.site)
+    i(class='fa fa-' + social.site)
+
+paddingBlock
+
+section#social
+ div.container
+   div.row.text-muted
+     h2 Contact Me
+     paddingBlock
+   div.row
+     div.social-btns
+       each social in socialList
+         +social-btns(social)
+
+paddingBlock
+
+section#footer
+ div.container.text-muted
+   p This is footer. 
+   p 
+    | This sample portfolio page is brought to you by 
+    br 
+    | NewbieGreen with a lot of help from CodePen community.
