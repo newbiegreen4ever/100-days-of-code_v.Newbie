@@ -503,7 +503,7 @@ For some reasons / laziness, my daily logging habit has stopped in July 2017. I 
 
 ### Day 36: 2017-07-13 (Thursday)
 
-**Today's Progress** Try to host my Hugo site by GitHub
+**Today's Progress** Try to host my Hugo site by GitHub and Read Zapier's API ebook
 
 **Thoughts** Getting stuck in remote directories and command line
 
@@ -511,19 +511,23 @@ For some reasons / laziness, my daily logging habit has stopped in July 2017. I 
 
 ### Day 37: 2017-07-14 (Friday)
 
-**Today's Progress** Try to host my Hugo site by GitHub
+**Today's Progress** Try to host my Hugo site by GitHub and Read Zapier's API ebook
 
 **Thoughts** Getting stuck in remote directories and command line
 
-**Link(s) to work** ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+**Link(s) to work**
+1. ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+2. [First Step to API](https://newbiegreen4ever.github.io/green-land/post/2017/07/17/first-step-to-api/)
 
 ### Day 38: 2017-07-15 (Saturday)
 
-**Today's Progress** Successfully host my Hugo site by GitHub
+**Today's Progress** Successfully host my Hugo site by GitHub and Write reading notes about Zapier's API ebook
 
 **Thoughts** It's OK to use GUI if it works! It's not a crime! Embrace your color --- green!
 
-**Link(s) to work** ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+**Link(s) to work**
+1. ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+2. [First Step to API](https://newbiegreen4ever.github.io/green-land/post/2017/07/17/first-step-to-api/)
 
 ### Day 39: 2017-07-16 (Sunday)
 
@@ -531,7 +535,9 @@ For some reasons / laziness, my daily logging habit has stopped in July 2017. I 
 
 **Thoughts** Hugo-xmin is not bad~
 
-**Link(s) to work** ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+**Link(s) to work**
+1. ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
+2. [First Step to API](https://newbiegreen4ever.github.io/green-land/post/2017/07/17/first-step-to-api/)
 
 ### Day 40: 2017-07-17 (Monday)
 
@@ -549,220 +555,53 @@ For some reasons / laziness, my daily logging habit has stopped in July 2017. I 
 
 **Link(s) to work** ["Start Blogging with Hugo"](https://newbiegreen4ever.github.io/green-land/post/2017/07/14/start-blogging-with-hugo/)
 
-***
+### Day 42: 2017-07-19 (Wednesday)
 
-### Day 42: (Wednesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Today's Progress** Research and read about `map()` and `fileter()` JavaScript function
 
-### Day 43: (Thursday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Thoughts** Hmmmm though everyone told me to read MDN, the explanation there is simplistic for a newbie.
 
-### Day 44: (Friday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Link(s) to work** [Learning `map()` in javaScript](https://newbiegreen4ever.github.io/green-land/post/2017/07/19/js-map/)
 
-### Day 45: (Saturday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+### Day 43: 2017-07-20 (Thursday)
 
-### Day 46: (Sunday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Today's Progress** Try out the example code about `map()` and `fileter()` JavaScript function in browser console
 
-### Day 47: (Monday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Thoughts** I learn by typing faulty code and reading error message popping out from browser console. Learn by making mistakes.
 
-### Day 48: (Tuesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Link(s) to work** [Learning `map()` in javaScript](https://newbiegreen4ever.github.io/green-land/post/2017/07/19/js-map/)
 
-### Day 49: (Wednesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+__Enjoy my trip ~~~ Yeah ~~~~ A pause from 2017-07-21 to 2017-07-25__
 
-### Day 50: (Thursday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+### Day 44: 2017-07-26 (Wednesday)
 
-### Day 51: (Friday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Today's Progress** Write down my note and my own example code
 
-### Day 52: (Saturday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
+**Thoughts** Writing about a subject forces me to think the subject through. Learn by writing.
 
-### Day 53: (Sunday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 54: (Monday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 55: (Tuesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 56: (Wednesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 57: (Thursday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 58: (Friday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 59: (Saturday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 60: (Sunday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 61: (Monday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 62: (Tuesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 63: (Wednesday)
-**Today's Progress**
-**Thoughts**
-**Link(s) to work**
-
-### Day 64: (Thursday)
-**Today's Progress**
-**Thoughts**
-
-```
-var container = "";
-for (i=34; i<65; i++) {
-  container += "### Day " + i + ":" + "\n";
-}
-console.log(container);
-```
-This javaScript snippet gives you a list of days for 100-days-of-code log
-> ### Day 1:
-> ### Day 2:
-.
-.
-.
-> ### Day 64:
-
-This snippet is an application of what I have learnt from Chapter 2 of《Eloquent JavaScript》
-
-Then, I add the feature of displaying "----day" by adding a `counter`
-```
-var container = "";
-var counter = 0;
-for (i=34; i<65; i++) {
-  counter ++;
-  if (counter%7 == 1) {
-    container += "### Day " + i + ": (Monday)" + "\n";
-  } else if (counter%7 === 2){
-    container += "### Day " + i + ": (Tuesday)" + "\n";
-  } else if (counter%7 === 3) {
-    container += "### Day " + i + ": (Wednesday)" + "\n";
-  } else if (counter%7 === 4) {
-    container += "### Day " + i + ": (Thursday)" + "\n";
-  } else if (counter%7 === 5) {
-    container += "### Day " + i + ": (Friday)" + "\n";
-  } else if (counter%7 === 6) {
-    container += "### Day " + i + ": (Saturday)" + "\n";
-  } else if (counter%7 === 0) {
-    container += "### Day " + i + ": (Sunday)" + "\n";
-  } else {
-    container += "";
-  }
-}
-console.log(container);
-```
-> ### Day 1: (Monday)
-> ### Day 2: (Tuesday)
-.
-.
-.
-> ### Day 64: (Monday)
-
-If I want to start from Tuesday, set `counter = 1`
-When `counter` enters the for-loop, `counter++` would add 1 to it.
-When `counter` enters the string of if-else-if conditional, `counter = 2` and therefore it gives "Tuesday"!
-
-To save copy-and-paste time, I add **Today's Progress**, **Thoughts** and **Link(s) to work** in `container` as well.
-
-```
-var container = "";
-var counter = 0;
-for (i=34; i<65; i++) {
-  counter ++;
-  if (counter%7 == 1) {
-    container += "### Day " + i + ": (Monday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 2){
-    container += "### Day " + i + ": (Tuesday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 3) {
-    container += "### Day " + i + ": (Wednesday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 4) {
-    container += "### Day " + i + ": (Thursday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 5) {
-    container += "### Day " + i + ": (Friday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 6) {
-    container += "### Day " + i + ": (Saturday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else if (counter%7 === 0) {
-    container += "### Day " + i + ": (Sunday)" + "\n" + "**Today's Progress**" + "\n" + "**Thoughts**" + "\n" + "**Link(s) to work**" + "\n" + "\n";
-  } else {
-    container += "";
-  }
-}
-console.log(container);
-```
-
->### Day 34: (Tuesday)
->**Today's Progress**
->**Thoughts**
->**Link(s) to work**
->
->### Day 35: (Wednesday)
->**Today's Progress**
->**Thoughts**
->**Link(s) to work**
-.
-.
-.
->### Day 64: (Thursday)
->**Today's Progress**
->**Thoughts**
->**Link(s) to work**
+**Link(s) to work** [Learning `map()` in javaScript](https://newbiegreen4ever.github.io/green-land/post/2017/07/19/js-map/)
 
 
-**Link(s) to work**
+### Day 45: 2017-07-27 (Thursday)
+
+**Today's Progress** Finetune my Atom Editor
+
+**Thoughts** I should have downloaded pigment and colorpicker packages earlier!!! This would save one night time on tweaking theme!!!
+
+**Link(s) to work** N/A
+
+### Day 46: 2017-07-28 (Friday)
+
+**Today's Progress** Read about mnemonics, Read about Unicode checkboxes and Learn the proper way to write `TODO`
+
+**Thoughts** Signposting devices are helpful in writing prose for humans and computers. ☐ todo ☑️ completed ☒ postponed
+
+**Link(s) to work** [Python guide to Mnemonics](https://www.python.org/dev/peps/pep-0350/#mnemonics)
+
+### Day 47: 2017-07-28 (Saturday)
+
+**Today's Progress** Write JavaScript snippet to generate log headers
+
+**Thoughts** From now on, I will generate a list of log headers by browser console! This is cool!
+
+**Link(s) to work** N/A

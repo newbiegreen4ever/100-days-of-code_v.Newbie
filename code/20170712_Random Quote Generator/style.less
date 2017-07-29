@@ -1,0 +1,75 @@
+// out:style.css, sourcemap: false, compress: false
+
+/* URL: https://codepen.io/htmkel/pen/LLQWgY
+ * A pen by Kristine Francisco, an excellent quote template
+ */
+@color_1: #fff;
+@color_2: #dca000;
+@font_family_1: "Gotham", sans-serif;
+@font_family_2: "AvenirMedium", sans-serif;
+
+@font-face {
+	font-family: "Gotham";
+	src: url("https://i.forbesimg.com/assets/fonts/GothamMedium.eot");
+	src: url("https://i.forbesimg.com/assets/fonts/GothamMedium.eot?#iefix") format("embedded-opentype"), url("https://i.forbesimg.com/assets/fonts/GothamMedium.woff") format("woff"), url("https://i.forbesimg.com/assets/fonts/GothamMedium.ttf") format("truetype"), url("https://i.forbesimg.com/assets/fonts/GothamMedium.svg#GothamMedium") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: AvenirMedium;
+	src: url(//i.forbesimg.com/assets/fonts/Avenir/Full/avenirltstd-medium-webfont.eot);
+	src: url(//i.forbesimg.com/assets/fonts/Avenir/Full/avenirltstd-medium-webfont.eot?#iefix) format("embedded-opentype"), url(//i.forbesimg.com/assets/fonts/Avenir/Avenir-Medium.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+/* ---- QUOTE ---- */
+body {
+	background: #0b192d;
+}
+.flex {
+	display: flex;
+}
+.gotham {
+	font-family: @font_family_1;
+	font-weight: 500;
+	letter-spacing: 5px;
+	line-height: 1.5;
+}
+.avenir {
+	font-family: @font_family_2;
+	font-weight: 700;
+	line-height: 1.5;
+}
+.white {
+	color: @color_1;
+}
+.yellow {
+	color: @color_2;
+}
+.quote-wrapper {
+	margin-top: 5%;
+}
+.quote-content {
+	text-align: center;
+	border: 1px solid #dca000;
+	padding: 20px 5% 5% 5%;
+	position: relative;
+}
+.quote-img {
+	background: #0b192d;
+	width: 80px;
+	height: 90px;
+	position: relative;
+	top: -60px;
+	left: 42%;
+	padding: 0 3%;
+}
+.svg-quote {
+	fill: #dca000;
+}
+.quote-name {
+	margin-top: 5%;
+}
+.quote-copy {
+	margin-top: -2%;
+}

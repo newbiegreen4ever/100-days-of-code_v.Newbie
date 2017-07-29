@@ -1,0 +1,13 @@
+.container
+  .row
+    .col-xs-4.centered
+      button#newQuote.btn.btn-default Click here for new quote
+    .row
+      #quote.col-xs-12
+    .row
+      #author.col-xs-4
+    .row
+      #twitter-button.col-xs-12
+        // javascript for twitter button
+      script.
+        window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))returnt;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));

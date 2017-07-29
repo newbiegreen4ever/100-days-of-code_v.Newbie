@@ -1,0 +1,26 @@
+//output: index.html
+
+html
+  head
+    link(rel='stylesheet' type='text/css' href='myStyle.css')
+    title Random Quote Generator 11/07/2017
+  body.grad-bg
+    .row
+    .quote-title.white.avenir
+      h1 Random Quote Generator
+    .jumbotron.grad
+      .container-fluid
+      .quote-content
+        p#quote.flex.gotham.white
+        p#author.lead.quote-name.gotham.grey
+    .wrapper.container
+      .row
+        .col-md-6
+          button#newQuote.btn.btn-outline-secondary.btn-block(type='button' onclick='newQuote()') New Quote
+      .row
+        #twitter-button.col-md-3
+        script.
+          window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))returnt;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+          
+        
+          
