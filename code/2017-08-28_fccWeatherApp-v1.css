@@ -1,0 +1,42 @@
+body {
+  background-image:url("https://source.unsplash.com/E9aetBe2w40/1600x900");  
+}
+
+h1, h3, h5 {
+  color: white;
+}
+
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+	margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+	height: 200px;
+}
+.site-footer {
+  color: white;
+  font-size: 80%;
+}
+table {
+  margin: auto;
+}
+
+a:link {
+  color: white;
+}
+
+name {
+  color: #39FF14;
+}

@@ -165,7 +165,7 @@ Figure out my current favorite style for git log.
 
 ### Day 10: 2017-06-13 (Tuesday)
 
-**Today's Progress** Finish some freeCodeCamp exercises and Read _Eloquent javaScript_(p1-p19)
+**Today's Progress** Finish some freeCodeCamp exercises and Read _Eloquent javaScript_(p1-p19) 
 
 **Thoughts** Hmmmm I can't show the good-looking CSS style in my laptop. Why? Aiiii..... I thought I could work on Smart Rocket example, but laziness got me. Luckily, I shrink the target hour from 1hr to 0.5hr, so a refreshing morning with freeCodeCamp would satisfy the minium requirement.
 
@@ -605,3 +605,468 @@ __Enjoy my trip ~~~ Yeah ~~~~ A pause from 2017-07-21 to 2017-07-25__
 **Thoughts** From now on, I will generate a list of log headers by browser console! This is cool!
 
 **Link(s) to work** N/A
+
+Spent two weeks on my trip to Tibet & Nepal!  ~~~ Yeah ~~~~ A pause from 2017-07-29 to 2017-08-24
+
+### Day 48: 2017-08-25 (Friday)
+
+**Today's Progress** Work on FCC Weather App Assignment and Play with Vim
+
+**Thoughts** 
+
+_Weather App Assignment_
+
+Glad that I can follow a well-made Youtube tutorial for this assignment. I have finished part 3 / 10!
+01/10 Check out Open Weather Map API
+02/10 Display your longitude and latitude
+03/10 Concat the api string with geolocation
+
+To be honest, I felt overwhelmed by this task, so I kept on looking for distractions including binging on blogposts and fantasizing about my first Phaser.js game. Will work hard to finish that project before my semester begins on 2017-09-04! 
+
+_Vim_
+
+Only God knows why I install this editor in my laptop LOL! All of a sudden. Maybe I feel the need for speed, especially when your AtomEditor sometimes drags for 2 - 3 min.
+
+**Link(s) to work**
+1. [FCC Weather App Assignment](https://codepen.io/newbiegreen4ever/pen/BdPqoZ)
+2. [FCC Weather App Walkthrough](https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1)
+
+### Day 49: 2017-08-26 (Saturday)
+
+**Today's Progress** Play with Vim
+
+**Thoughts**
+
+_Vim_
+
+It does have some cool features!
+- `Esc-30-i-[string]-Esc` insert text repeatedly 
+- `f-[character]` find a character 
+- `%` go to matching parentheses 
+- `0` go to the starting point of the line
+- `$` go to the ending point of the line
+
+The coolest one among them all is.....speed saving with `:w`! 
+
+
+**Link(s) to work** [Interactive Vim Tutorial](http://www.openvim.com)
+
+### Day 50: 2017-08-27 (Sunday)
+
+**Today's Progress**  Work on FCC Weather App Assignment and Play with Vim
+
+_Weather App Assignment_
+
+Still following CodingTutorials360 tutorials on FCC Weather App Assignment
+04/10 Calculate temperature in Celcius and Fahrenheit
+💣CodePen does not display my api info properly!
+💣Refer to the [official example](https://codepen.io/freeCodeCamp/pen/bELRjV?editors=1010) and make some changes, now CodePen can display my api info
+05/10 Display weather info
+06/10 Create swap button between Celcius and Fahrenheit
+
+🍅🍅🍅Tricky scope issue 🍅🍅🍅
+Have to use `var` and put `tempC` and `tempF` at the top i.e. global variables. Should write something about it in my blog. Some say this practice is bug-prone and therefore not desirable. I should think of a better way to layout my variables. 
+
+_Vim_
+
+More handy commands from Taiwanese blogposts, [link](http://www.study-area.org/tips/vim/)
+- `:set encoding=utf8` display proper Chinese characters 
+- `gg` go to the 1st line 
+- `Esc-[N]-G` `:n[N]` go to the Nth line
+ 
+- `H` move the cursor to the high part of the screen 
+- `M` move the cursor to the middle part of the screen 
+- `L` move the cursor to the low part of the screen
+
+- `(` jump to next sentence
+- `)` jump to previous sentence
+- `{` jump to next paragraph
+- `}` jump to previous paragraph
+
+- `dd` delete line
+- `dw` delete word
+- `d0` delete until the start of line
+- `d$` `D` delete until the end of line
+
+- `~` change the case
+
+- `:ce(nter)` align this line to the center
+- `:ri(ght)` align this line to the right
+- `:le(ft)` align this line to the left
+
+- `yy` `Y` yank === copy whole line, if `3yy` then yank 3 lines 
+- `yw` yank whole word, if `2yw` then yank 2 words
+- `y0` yank until the start of line
+- `y$` yank until the end of line
+
+- `ma` create mark "a"
+- `'a` go to the line of mark "a"
+- `:delm a` delete mark "a"
+- `:marks` display all marks
+
+**Thoughts** I learn much better under the guidance of an example! I should have followed a tutorial and looked at the example code earlier.
+
+**Link(s) to work**
+1. [FCC Weather App Assignment](https://codepen.io/newbiegreen4ever/pen/yoxxgg)
+2. [FCC Weather App Walkthrough](https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1)
+
+
+### Day 51: 2017-08-28 (Monday)
+
+**Today's Progress** Work on FCC Weather App Assignment and Play with Vim
+
+**Thoughts**
+
+_Vim_
+
+At last I figure out the whereabout of my `~/.vim`. Actually, it should be `vimfiles` and its address is `C:\Users\User\vimfiles`.
+Finally I can tinker with my Vim. 🌟 🌠✦ ✧Vim ~ 🎵~ Vim ~ 🎵~ Vim ~ 🎵~ Vim ~ 🎵~
+
+_Weather App Assignment_
+
+Following CodingTutorials360 tutorials on FCC Weather App Assignment
+Despite being messy, the sample code still serves as good reference.
+07/10 Twitch HTML and CSS for a nice UI
+08/10 Clean up temperature unit
+09/10 Add BG img change
+🍅🍅🍅Tricky scope issue 🍅🍅🍅
+Again! I am sure there is something wrong with how I declare variable!
+For the time being, I simply put everything under the same function.
+10/10 Final cleanup 
+
+ 
+**Link(s) to work**
+1. [FCC Weather App Assignment - Final Product](https://codepen.io/newbiegreen4ever/pen/MvPvXm)
+2. [FCC Weather App Walkthrough](https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1)
+
+### Day 52: 2017-08-29 (Tuesday)
+
+**Today's Progress** Read about FCC Wiki Viewer App Assignment and Tinker with my Vim
+
+**Thoughts**
+
+_Wiki Viewer App_
+I prepare a list of resources for this assignment. Next time I can simply open the list and find everything I need.
+
+_Vim_
+- `:[N]` go to line N (P.S. This is the most intuitive method I have ever seen!)
+- `o` insert new line
+- `/[string]` search string
+- `x` delete character under cursor
+- `X` delete character to the left of cursor
+- `r` replace character under cursor
+
+Install a few plugins by native Vim8 packager `pack`
+- tpope/vim-commentary `gcc`
+- tpope/vim-surround `ds"`
+- scrooloose/nerdtree
+- pangloss/vim-javascript 
+
+**Link(s) to work** [FCC Wiki Viewer](https://codepen.io/newbiegreen4ever/pen/WEYQqW)
+
+
+### Day 53: 2017-08-30 (Wednesday)
+
+**Today's Progress** Tinker with my Vim
+
+**Thoughts**
+
+_Vim_
+
+Install a few more plugins by native Vim8 packager `pack` 
+- vim-indent-guides `\ig` 
+- vim-lightline
+- vim-goyo --------> still need more exploration
+- vim-table-mode --> still need more exploration
+
+Pick up a few more keys
+- `a` append
+- `A` append a the end of line
+- `J` join lines
+
+Also add a few lines in my vimrc file.
+Might try to configure my own status line later.
+I thought I would spend 2hr on tinkering with Vim, luckily it turns out that it only takes around 1.5hr. Good job!
+
+_Wiki Viewer App_
+
+I skim through all tutorial videos on CodingTutorials360 within 1hr. I guess Wiki Viewer is easier than Weather App, as two of them do similar things, and now I have the basic know-how of ajax via jQuery.
+
+Hope that I can finish Wiki Viewer on tomorrow
+
+**Link(s) to work** 
+1. [FCC Wiki Viewer Walkthrough](https://www.youtube.com/watch?v=PFrzq01h4m0)
+2. [FCC Wiki Viewer](https://codepen.io/newbiegreen4ever/pen/WEYQqW)
+
+
+### Day 54: 2017-08-31 (Thursday)
+
+**Today's Progress** Relearn shortcuts for Opera and YouTube, Work on FCC Wiki Viewer and Play with Vim
+
+**Thoughts** Deliberately google for things you don't know!
+
+_Opera Shortcut_
+
+- `F8` Focus address field
+- `F9` Focus the page
+- `Ctrl + T` Open a new tab
+
+_YouTube Shortcut_
+
+- `->` `<-` Move back and forth with arrows
+
+_Vim Shortcut_
+
+For surround plugin
+- `ys[Shift]w(` Surround the whole URL in ()  // This is my own thought!
+- `ys2w(` Surround 2 words in ()
+- `ySS{` Surround the whole line in {} with new line
+	before: Hello World!
+	after: {
+						Hello World
+					}
+- `ds "` Delete surrounding "
+- `cs "(` Change surrounding " to ( 
+( wilon/vim-surround使用指南.MD ) [ https://gist.github.com/wilon/ac1fc66f4a79e7b0c161c80877c75c94 ]
+
+
+
+**Link(s) to work**
+1. [ Opera Shortcut ](http://www.opera.com/help/tutorials/nomouse/)
+2. [ YouTube Shortcut ](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube)
+
+
+### Day 55: (Friday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 56: (Saturday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 57: (Sunday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 58: (Monday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 59: (Tuesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 60: (Wednesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 61: (Thursday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 62: (Friday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 63: (Saturday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 64: (Sunday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 65: (Monday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 66: (Tuesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 67: (Wednesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 68: (Thursday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 69: (Friday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 70: (Saturday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 71: (Sunday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 72: (Monday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 73: (Tuesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 74: (Wednesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 75: (Thursday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 76: (Friday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 77: (Saturday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 78: (Sunday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 79: (Monday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 80: (Tuesday)
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link(s) to work**
+
+
