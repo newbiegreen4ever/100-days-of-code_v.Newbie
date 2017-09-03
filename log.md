@@ -827,40 +827,118 @@ For surround plugin
 					}
 - `ds "` Delete surrounding "
 - `cs "(` Change surrounding " to ( 
-( wilon/vim-surround使用指南.MD ) [ https://gist.github.com/wilon/ac1fc66f4a79e7b0c161c80877c75c94 ]
 
+for open bracket, string will be wrapped in space
+for close bracket, only bracket, no space
 
+(wilon/vim-surround使用指南.MD)[https://gist.github.com/wilon/ac1fc66f4a79e7b0c161c80877c75c94]
 
 **Link(s) to work**
-1. [ Opera Shortcut ](http://www.opera.com/help/tutorials/nomouse/)
-2. [ YouTube Shortcut ](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube)
+1. [Opera Shortcut](http://www.opera.com/help/tutorials/nomouse/)
+2. [YouTube Shortcut](https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube)
 
 
-### Day 55: (Friday)
+### Day 55: 2017-09-01 (Friday)
 
-**Today's Progress**
+**Today's Progress** Start Udemy ajax course, Pick up Vim-surround shortcuts and Read about W3C JavaScript best practices
+
+**Thoughts** 
+
+_Ajax course_
+
+Want to learn more about ajax before next FCC Twitch.tv json assignment. I think it is important to understand ajax before moving on to intermediate algorithm.
+
+This is a nice course, though I need Web Server on Chrome to workaround with this issue "XMLHttpRequest cannot load Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource."
+
+_Vim-surround_
+
+- `ys$"` surround text with " until the end of line
+- `ys0"` surround text with " until the start of line
+- `yssB` surround some code with {
+- `dst` delete surrounding html tag
+- `viwS*` surround a word with * , useful for bolding some words
+
+NERD Commenter seems to be more user friendly than vim-commentary. Should consider switching to it when changing my indent setup to "softtap 4"
+
+_W3C JavaScript best practices_
+
+This reminds me of my experience of getting stuck when dealing with function scope issue in FCC Weather App assignment.
+
+**Link(s) to work**
+1. [Udemy - Learn JavaScript AJAX in 1 hr](https://www.udemy.com/learn-javascript-ajax/) 
+2. [Vim surround plugin tutorial](http://www.futurile.net/2016/03/19/vim-surround-plugin-tutorial/)
+3. [W3C JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices)
+
+### Day 56: 2017-09-02 (Saturday)
+
+**Today's Progress** Follow Udemy ajax course, Preview FCC Twitch.tv JSON Assignment and Pick up Vim shortcuts 
 
 **Thoughts**
 
-**Link(s) to work**
+_Ajax course_
+
+It takes quite a while to follow video, as I often get stuck in syntax error.
+Plus, it takes time to install and run XMAPP used by instructor.
+Hope that my XMAPP server can run smoothly.
+This course is informative and well-designed.
+I learn a lot more than flipping through MDN documentation.
+
+_Vim_
+
+*Shortcut*
+
+Normal mode
+- `>>` `<<` indent / deindent a line (correspond to "shiftwidth"
+- `5>>` indent 5 lines
+- `C`/`c$` `c0` change the current line from end of line or start of line
+- `cw` change the current word 
+- `cf[character]` `cF[character]` change from cursor position to [character], f for next, F for previous 
 
 
-### Day 56: (Saturday)
+Insert mode
+- `CTRL+SHIFT+T` `CTRL+SHIFT+D` indent / deindent a line
 
-**Today's Progress**
+[每日一Vim（9）----缩进](http://liuzhijun.iteye.com/blog/1831548)
+
+*Vim filetype plugin*
+
+Successfully define my indentation format for pug and html file!
+
+[Vim Tips Wiki - Keep your vimrc file clean](http://vim.wikia.com/wiki/VimTip1510)
+
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax/)
+
+### Day 57: 2017-09-03 (Sunday)
+
+**Today's Progress** Follow Udemy ajax course and Play with Vim Master
 
 **Thoughts**
 
-**Link(s) to work**
+_Vim Master - Easy Mode_
 
+It is a quiz app for every Vim newbie. MCQs help to reinforce my Vim muscle memory. 
 
-### Day 57: (Sunday)
+Function                            |        Command        | Description
+----------------------------------- | :-------------------: | --------------------------------------------------------------
+Delete the whole word               |      `cw` / `dw`      | start insert / stay normal 
+Delete everything behind the cursor |   `C` / `d$` = `D`    | start insert / stay normal
+Delete the whole line               |      `S` / `dd`       | start insert / stay normal
+Delete character                    |          `s`          | start insert
+Enter insert mode                   |       `i` / `a`       | before / after cursor
+Insert new line                     |       `o` / `O`       | below / above cursor
+Move down line                      | `j` / `[Enter]` = `+` | move the cursor down a line / on the first non-block character
+Move up line                        |       `k` / `-`       | move the cursor up a line / on the first non-block character
+Switch position of the two words    |        `dwwP`         | delete paste, remember to type fast!
+Switch position of the two lines    |         `ddp`         | delete then past
 
-**Today's Progress**
+_Ajax course_
 
-**Thoughts**
+Somehow I got stuck! Just can't POST anything to my PHP endpoint running on xampp. 
+Is that about my code or about my xampp?
+Will check that tomorrow. After all, there is not point banging my head against the wall when getting stuck.
+Keep calm, stay relaxed and move on.
 
-**Link(s) to work**
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax/)
 
 
 ### Day 58: (Monday)
