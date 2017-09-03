@@ -914,22 +914,29 @@ Successfully define my indentation format for pug and html file!
 
 **Thoughts**
 
-_Vim Master - Easy Mode_
+_Vim Master_
 
 It is a quiz app for every Vim newbie. MCQs help to reinforce my Vim muscle memory. 
 
 Function                            |        Command        | Description
 ----------------------------------- | :-------------------: | --------------------------------------------------------------
-Delete the whole word               |      `cw` / `dw`      | start insert / stay normal 
+Delete area enclosed by "}"         |         `ci}`         | insert} / stay normal
 Delete everything behind the cursor |   `C` / `d$` = `D`    | start insert / stay normal
-Delete the whole line               |      `S` / `dd`       | start insert / stay normal
+Delete whole word                   |  `cw` / `dw` / `daw`  | start insert / stay normal / word of current position
+Delete whole line                   |      `S` / `dd`       | start insert / stay normal
+Delete whole line and ...           |      `dk` / `dj`      | the line up / the line down
 Delete character                    |          `s`          | start insert
 Enter insert mode                   |       `i` / `a`       | before / after cursor
 Insert new line                     |       `o` / `O`       | below / above cursor
+Join line                           |      `J` / `gJ`       | without inserting space / inserting space
 Move down line                      | `j` / `[Enter]` = `+` | move the cursor down a line / on the first non-block character
 Move up line                        |       `k` / `-`       | move the cursor up a line / on the first non-block character
-Switch position of the two words    |        `dwwP`         | delete paste, remember to type fast!
-Switch position of the two lines    |         `ddp`         | delete then past
+Switch case of the current line     |  `V~` / `VU` / `Vu`   | reverse case / upper case / lower case
+Switch case of the word             |         `ve~`         | from the cursor to the end of word
+Switch position of the two lines    |         `ddp`         | delete then paste
+Switch position of the two words    |        `dwwP`         | delete then paste, remember to type fast!
+
+
 
 _Ajax course_
 
