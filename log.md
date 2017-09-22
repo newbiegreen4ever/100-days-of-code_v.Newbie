@@ -948,67 +948,55 @@ Keep calm, stay relaxed and move on.
 **Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax/)
 
 
-### Day 58: (Monday)
+### Day 58: 2017-09-04 (Monday)
 
-**Today's Progress**
+**Today's Progress** Follow Udemy ajax course and Play with Vim
 
-**Thoughts**
+**Thoughts** Configuring with Vim is such a timesink!
 
-**Link(s) to work**
-
-
-### Day 59: (Tuesday)
-
-**Today's Progress**
-
-**Thoughts**
-
-**Link(s) to work**
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax/)
 
 
-### Day 60: (Wednesday)
+### Day 59: 2017-09-05 (Tuesday)
 
-**Today's Progress**
+**Today's Progress** Play with Vim
 
-**Thoughts**
+**Thoughts** Configuring with Vim is such a timesink!
 
-**Link(s) to work**
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax/)
 
+### Day 60: 2017-09-06 (Wednesday)
 
-### Day 61: (Thursday)
+**Today's Progress** Play with Vim
 
-**Today's Progress**
+**Thoughts** Configuring with Vim is such a timesink!
 
-**Thoughts**
+**Link(s) to work** N/A
 
-**Link(s) to work**
+### Day 61: 2017-09-07 (Thursday)
 
+**Today's Progress** Play with Vim
 
-### Day 62: (Friday)
+**Thoughts** Configuring with Vim is such a timesink!
 
-**Today's Progress**
-
-**Thoughts**
-
-**Link(s) to work**
+**Link(s) to work** N/A
 
 
-### Day 63: (Saturday)
+### Day 62: 2017-09-08 (Friday)
 
-**Today's Progress**
+**Today's Progress** Play with Vim and Follow Udemy AJAX course
 
-**Thoughts**
+**Thoughts** Configuring with Vim is such a timesink! 
 
-**Link(s) to work**
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax)
 
+### Day 63: 2017-09-10 (Sunday)
 
-### Day 64: (Sunday)
+**Today's Progress** Backup my Vim setting and Finish Udemy AJAX course
 
-**Today's Progress**
+**Thoughts** GitHub backup makes me feel much safer. The sourcecode of Udemy AJAX about XMLHttpRequest & POST can run in my machine. I reckon that everything is actually ok. Course completed.
 
-**Thoughts**
-
-**Link(s) to work**
+**Link(s) to work** [Udemy - Learn JavaScript AJAX in 1 hour](https://www.udemy.com/learn-javascript-ajax)
 
 
 ### Day 65: (Monday)

@@ -8,6 +8,8 @@
 01/05 Set up basic HTML
 02/05 Write jQuery ajax call, Test with `console.log()`
 💣API call issue `dataType: jsonp`? WTH is that? Anyway, I copy from a nice guy's blogpost. My ajax finally works!
+03/05 Prepend `#output` area with Wiki API search results 
+
 
 🍅🍅🍅Tricky scope issue 🍅🍅🍅
 
@@ -15,9 +17,9 @@
 
 Tutorial | Time Est | Task
 :------: | :------: | :-----------------------------------------------------------------------------------
- 01/10   |    -     | Set up basic HTML
-   -     |  15min   | Build HTML structure for input and link to random articles
-   -     |  60min   | Build HTML structure for output
+ 01/10   |    /     | Set up basic HTML
+   /     |  15min   | Build HTML structure for input and link to random articles
+   /     |  60min   | Build HTML structure for output
  02/10   |  45min   | Write jQuery search function with ajax call, Test with `console.log( );`
  03/10   |  15min   | Output data, Clean canvas for multiple searches
  04/10   |  30min   | Assign web font, Set CSS bg img
@@ -57,7 +59,7 @@ https://www.youtube.com/watch?v=dRZxQY2RgUA
 https://www.youtube.com/watch?v=pn5eOoJF8bw
 
 ### Examples
-1. [ Official Example ] ( https://codepen.io/freeCodeCamp/full/wGqEga ) 
-2. [ Example $get.JSON ] ( https://codepen.io/BFD71/pen/rLoEdO )
-3. [ Example $.ajax ] ( https://codepen.io/volv/pen/mVyQwX )
+1. [Official Example](https://codepen.io/freeCodeCamp/full/wGqEga) 
+2. [Example $get.JSON](https://codepen.io/BFD71/pen/rLoEdO)
+3. [Example $.ajax](https://codepen.io/volv/pen/mVyQwX)
 
